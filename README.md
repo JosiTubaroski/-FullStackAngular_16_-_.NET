@@ -7,16 +7,6 @@
 
 ### .NET
 
-<b>.NET</b> (lê-se “dot net”) é uma <b>plataforma criada pela Microsoft</b> que serve para <b>criar programas e aplicativos.</b> Ela ajuda os programadores a construir:
-
-- sites,
-- aplicativos para celular,
-- e até sistemas mais complexos, como os usados em empresas e bancos.
-
-  Você pode imaginar o .NET como uma <b>caixa de ferramentas digital,</b> cheia de peças prontas que os desenvolvedores usam para montar esses sistemas mais rápido e de forma mais organizada.
-
-  Ele funciona com várias linguagens de programação, mas a principal é o <b>C#</b> (C-sharp).
-
 <div> 
 <p><a href="https://github.com/JosiTubaroski/WebAPI_Aula_Funcionarios">1. Repositório Código do Projeto .NET</a></p>
 </div> 
