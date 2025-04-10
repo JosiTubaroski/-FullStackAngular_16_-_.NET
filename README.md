@@ -4,21 +4,8 @@
 
 # Full Stack Angular 16 .NET
 
-WEB API com .NET e SQL Server | CRUD + Repository Pattern
 
-### Aulas
-
-https://www.youtube.com/watch?v=AqmghDyWCLU&list=PL8l5r7-11AADwxNy8aYGM2P2Dr0nB5ZW4&index=1
-
-https://www.youtube.com/watch?v=EBvV_pS50F8&list=PL8l5r7-11AADwxNy8aYGM2P2Dr0nB5ZW4&index=2
-
-https://www.youtube.com/watch?v=tnc6_yrDJFE&list=PL8l5r7-11AADwxNy8aYGM2P2Dr0nB5ZW4&index=4
-
-https://www.youtube.com/watch?v=wb25bigLMpY&list=PL8l5r7-11AADwxNy8aYGM2P2Dr0nB5ZW4&index=3
-
-https://www.youtube.com/watch?v=3rjWsio3BXY&list=PL8l5r7-11AADwxNy8aYGM2P2Dr0nB5ZW4&index=5
-
-# .NET
+### .NET
 
 <b>.NET</b> (lê-se “dot net”) é uma <b>plataforma criada pela Microsoft</b> que serve para <b>criar programas e aplicativos.</b> Ela ajuda os programadores a construir:
 
@@ -34,7 +21,7 @@ https://www.youtube.com/watch?v=3rjWsio3BXY&list=PL8l5r7-11AADwxNy8aYGM2P2Dr0nB5
 <p><a href="https://github.com/JosiTubaroski/WebAPI_Aula_Funcionarios">1. Repositório Código do Projeto</a></p>
 </div> 
 
-# Angular 16
+### Angular 16
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Anglular16/blob/main/README.md">1. Pre-Requisitos, Criação de projeto</a></p>
@@ -43,4 +30,16 @@ https://www.youtube.com/watch?v=3rjWsio3BXY&list=PL8l5r7-11AADwxNy8aYGM2P2Dr0nB5
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Angular16_Estrutura_Pastas_Arquivos/blob/main/README.md">2. Estrutura de Pastas e Arquivos do Framework Angular 16</a></p>
 </div> 
+
+### Aulas
+
+https://www.youtube.com/watch?v=AqmghDyWCLU&list=PL8l5r7-11AADwxNy8aYGM2P2Dr0nB5ZW4&index=1
+
+https://www.youtube.com/watch?v=EBvV_pS50F8&list=PL8l5r7-11AADwxNy8aYGM2P2Dr0nB5ZW4&index=2
+
+https://www.youtube.com/watch?v=tnc6_yrDJFE&list=PL8l5r7-11AADwxNy8aYGM2P2Dr0nB5ZW4&index=4
+
+https://www.youtube.com/watch?v=wb25bigLMpY&list=PL8l5r7-11AADwxNy8aYGM2P2Dr0nB5ZW4&index=3
+
+https://www.youtube.com/watch?v=3rjWsio3BXY&list=PL8l5r7-11AADwxNy8aYGM2P2Dr0nB5ZW4&index=5
 
