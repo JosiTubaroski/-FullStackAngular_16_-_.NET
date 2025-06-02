@@ -10,7 +10,7 @@
 ### .NET
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/WebAPI_Aula_Funcionarios">1. Repositório Código do Projeto .NET</a></p>
+<p><a href="https://github.com/JosiTubaroski/WebAPI_Employees">1. Repositório Código do Projeto .NET</a></p>
 </div> 
 
 ### Angular 16
